@@ -1,1 +1,1 @@
-## Trabalho 01 em Sistemas Operacionais
+## Trabalho 01 Operacionais em Sistemas
